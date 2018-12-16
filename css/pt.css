@@ -1,0 +1,39 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	background: url(../img/timg.png) no-repeat;
+	
+}
+
+.container{
+	margin-top: 200px;
+}
+
+h1{
+	font-size: 30px;
+	font-family:"Georgia", Tahoma, Sans-Serif;;
+	color: rgb(255,100,154);
+}
+
+.form-control{
+	width: 200px;
+	height: 30px;
+}
+
+.control-label{
+	color: lightpink;
+}
+
+input{
+	background: url(../img/timg.png);
+}
+
+button{
+	margin-top: 10px;
+	width: 90px;
+	height: 40px;
+	background:url(../img/timg.png);
+}
